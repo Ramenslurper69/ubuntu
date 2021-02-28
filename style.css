@@ -1,0 +1,79 @@
+html {
+    width: 1200px;
+    margin: auto;
+    background-color: rgb(187, 187, 187);
+}
+
+body,
+html {
+    height: 100%;
+}
+
+p {
+    text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+button {
+    width: 15%;
+    padding: 6px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h1 {
+    padding: 15px;
+}
+
+#bemkep {
+    float: right;
+    width: 35%;
+    padding: 35px;
+}
+
+#speckep {
+    float: right;
+    width: 35%;
+    padding: 35px;
+}
+
+#elekep {
+    width: 95%;
+    padding: 35px;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.navbar {
+    width: auto;
+    padding: 15px;
+    background-color: orangered;
+}
+
+.sidebar {
+    float: right;
+    border: 1px solid black;
+    width: 200px;
+    min-height: 100%;
+}
+
+.content {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.wrapper {
+    height: 100%;
+    background: #fff;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid black;
+    box-shadow: 0 0 15px #353333;
+    font-family: sans-serif;
+    padding: 20px;
+}
