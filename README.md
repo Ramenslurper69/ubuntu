@@ -1,3 +1,3 @@
 # ubuntu
 
-https://github.com/Ramenslurper69/ubuntu
+https://ramenslurper69.github.io/ubuntu/
