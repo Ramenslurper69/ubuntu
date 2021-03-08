@@ -85,6 +85,12 @@ td {
     padding: 20px;
 }
 
+footer {
+    padding: 15px;
+    background-color: orange;
+    text-align: center;
+}
+
 @media only screen and (max-width: 1200px) {
     html {
         width: 100%;
